@@ -1,9 +1,0 @@
-<!doctype html>
-<html lang="zh-tw">
-<head>
-	... (標明文件資訊)
-</head>
-<body>
-	... (顯示在網頁上的內容)
-</body>
-</html>
